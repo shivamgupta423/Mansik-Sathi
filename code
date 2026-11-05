@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Website</title>
+<style>
+body{font-family:Arial; text-align:center; background:#f0f0f0; padding-top:100px}
+h1{color:#0070f3}
+button{padding:12px 20px; background:#0070f3; color:white; border:none; border-radius:8px}
+</style>
+</head>
+<body>
+<h1>Hello, This is My Free Website!</h1>
+<p>Made by me and hosted on GitHub for FREE</p>
+<button onclick="alert('Website Working!')">Click Me</button>
+</body>
+</html>
